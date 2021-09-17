@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mobile-way",
+    "slug": "mobile-way",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mobile-way"
+}
